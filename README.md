@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/anisshhh/DSA_Problems/tree/master/0006-zigzag-conversion) |
+| [1903-largest-odd-number-in-string](https://github.com/anisshhh/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -15,4 +16,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anisshhh/DSA_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1903-largest-odd-number-in-string](https://github.com/anisshhh/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/anisshhh/DSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
