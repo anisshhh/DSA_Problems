@@ -11,6 +11,7 @@ A collection of LeetCode questions!
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/anisshhh/DSA_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/anisshhh/DSA_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anisshhh/DSA_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
@@ -39,4 +40,12 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anisshhh/DSA_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/anisshhh/DSA_Problems/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/anisshhh/DSA_Problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
